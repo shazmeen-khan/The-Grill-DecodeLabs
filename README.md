@@ -1,8 +1,8 @@
 # The-Grill-DecodeLabs
 A premium luxury fine dining restaurant website built with HTML, CSS &amp; JavaScript featuring responsive design, dark mode, interactive sections, smooth animations, and modern UI.
-# 🍽️ The Grail – Luxury Fine Dining Restaurant Website
+# 🍽️ The Grill – Luxury Fine Dining Restaurant Website
 
-The Grail is a modern, responsive luxury restaurant website built using HTML, CSS, and JavaScript. It delivers a premium dining experience through elegant design, smooth animations, interactive sections, and a fully responsive layout for all screen sizes.
+The Grill is a modern, responsive luxury restaurant website built using HTML, CSS, and JavaScript. It delivers a premium dining experience through elegant design, smooth animations, interactive sections, and a fully responsive layout for all screen sizes.
 
 ## ✨ Features
 
@@ -37,7 +37,7 @@ The Grail is a modern, responsive luxury restaurant website built using HTML, CS
 ## 📁 Project Structure
 
 ```
-The Grail/
+The Grill/
 │── index.html
 │── style.css
 │── script.js
